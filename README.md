@@ -1,3 +1,3 @@
 ## git-playground
 
-### This is a readme file for feature 1.
+### This is a readme file for feature 2.
